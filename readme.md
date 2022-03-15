@@ -32,3 +32,7 @@ Exactly the same results should be obtained if you are using 8 × NVIDIA V100 (S
 
 To help verify the exact reproduction process, a training log of ResNet-50 + Self-Attention + CAR is provided in [resnet50_sa_car_train_log.md](docs/resnet50_sa_car_train_log.md)
 
+## To do
+
+1. Upload checkpoints to model-zoo, upload logs to tensorboard.dev. It will take some time to complete, too many experiments to upload. :dizzy_face:
+
