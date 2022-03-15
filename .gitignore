@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+
+checkpoints/
+
+.DS_Store
+local_configs/
