@@ -34,5 +34,5 @@ To help verify the exact reproduction process, a training log of ResNet-50 + Sel
 
 ## To do
 
-1. Upload checkpoints to model-zoo, upload logs to tensorboard.dev. It will take some time to complete, too many experiments to upload. :dizzy_face:
+1. Model-Zoo & TensorBoard.dev, coming soon~
 
