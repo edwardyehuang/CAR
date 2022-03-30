@@ -26,13 +26,15 @@ This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regulariza
 4. Train ([docs](docs/train.md))
 5. Tell me if you successfully reproduced our result :)
 
+## Model ZOO
+
+[Here](docs/modelzoo.md)
+
 ## Reproduce our results
 
 Exactly the same results should be obtained if you are using 8 × NVIDIA V100 (SXM2). We verified this on many different machines. Note that, you have to use all GPUs on the machine to avoid a deterministic bug that is still under investigation.
 
 To help verify the exact reproduction process, a training log of ResNet-50 + Self-Attention + CAR is provided in [resnet50_sa_car_train_log.md](docs/resnet50_sa_car_train_log.md)
 
-## To do
 
-1. Model-Zoo & TensorBoard.dev, coming soon~
 
