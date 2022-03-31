@@ -26,7 +26,7 @@ This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regulariza
 4. Train ([docs](docs/train.md))
 5. Tell me if you successfully reproduced our result :)
 
-## Model ZOO
+## Model Zoo
 
 [Here](docs/modelzoo.md)
 
