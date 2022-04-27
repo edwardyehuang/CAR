@@ -29,3 +29,10 @@ conda install pillow
 pip install tensorflow==2.8.0
 ```
 
+5. (optional) In some cases, you may have to export LD_LIBRARY_PATH to help TensorFlow find CUDA, etc.
+
+```
+export LD_LIBRARY_PATH=$CONDA_PREFIX\libs
+```
+
+You may also add this script into the conda script, see https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#saving-environment-variables
