@@ -16,10 +16,10 @@ conda create -n tf28 python=3.8
 ```
 conda activate tf28
 ```
-3. Install cudatoolkit 11.2, cudnn, tqdm and pillow
+3. Install cudatoolkit 11.3, cudnn 8.2, tqdm and pillow
 ```
-conda install cudatoolkit=11.2 -c conda-forge
-conda install cudnn=8.1 -c conda-forge
+conda install cudatoolkit=11.3
+conda install cudnn=8
 conda install tqdm
 conda install pillow
 ```
