@@ -18,8 +18,8 @@ conda activate tf28
 ```
 3. Install cudatoolkit 11.3, cudnn, tqdm and pillow
 ```
-conda install cudatoolkit=11.3
-conda install cudnn
+conda install cudatoolkit=11.2 -c conda-forge
+conda install cudnn=8.1 -c conda-forge
 conda install tqdm
 conda install pillow
 ```
