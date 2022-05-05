@@ -36,3 +36,5 @@ export LD_LIBRARY_PATH=$CONDA_PREFIX/libs
 ```
 
 You may also add this script into the conda script, see https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#saving-environment-variables
+
+If 5 is still not working, contact with your server administrator to see any reason LD_LIBRARY_PATH is not the highest precedence. 
