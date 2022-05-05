@@ -10,7 +10,7 @@ You can found related guides in docs
 
 ## Train step by step (ResNet-50 + Self-attention + CAR)
 
-1. Edit or make a new copy of the "docs/pascalcontext_train_resnet50_sa_car.cfg". If you choose to make a new copy, we suggest you change the "--flagfile" to an absolute path.
+1. Edit or make a new copy of the "configs/pascalcontext_train_resnet50_sa_car.cfg". If you choose to make a new copy, we suggest you change the "--flagfile" to an absolute path.
 
 2. Modify "--checkpoint_dir" and "--tensorboard_dir" to the correct location.
 
