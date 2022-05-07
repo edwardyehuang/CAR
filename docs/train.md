@@ -16,9 +16,11 @@ You can found related guides in docs
 
 3. Modify "--resnet50_weights_path" to the path of backbone weights you downloaded.
 
-4. cd to "CAR" root folder. (Important for the relative path of "--flagfile").
+4. Modify "--pascalcontext_path" to the path of pascalcontext tfrecords dir.
 
-5. Run the following script, if you are using conda, make sure you activated the correct environment:
+5. cd to "CAR" root folder. (Important for the relative path of "--flagfile").
+
+6. Run the following script, if you are using conda, make sure you activated the correct environment:
 ```
 python train.py --flagfile={path to your cfg file above}
 ```
