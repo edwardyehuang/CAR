@@ -20,7 +20,7 @@ This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regulariza
 
 ## News
 
-<b>May-5-2022</b> : There were few documentation errors in previous commits and we fixed them today. Sorry for any inconvenience caused
+<b>May-7-2022</b> : There were few documentation errors in previous commits and we fixed them today. Sorry for any inconvenience caused
 
 ## Get start
 
