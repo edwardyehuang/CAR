@@ -2,7 +2,7 @@
 
 For training, we recommend using the NVIDIA GPU with architecture ≥ volta (e.g. v100, any 20 or 30 series).
 
-For NVIDIA GPU drvier, we recommend using the lastest version.
+For NVIDIA GPU drvier, we recommend using the lastest version. CUDA installation is not required for conda user (See below).
 
 ## Installation step by step
 
@@ -37,4 +37,4 @@ export LD_LIBRARY_PATH=$CONDA_PREFIX/lib
 
 You may also add this script into the conda script, see https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#saving-environment-variables
 
-If 5 is still not working, contact with your server administrator to see any reason LD_LIBRARY_PATH is not the highest precedence. 
+If 5 is still not working, contact me :)
