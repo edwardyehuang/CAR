@@ -20,7 +20,9 @@ You can found related guides in docs
 
 5. cd to "CAR" root folder. (Important for the relative path of "--flagfile").
 
-6. Run the following script, if you are using conda, make sure you activated the correct environment:
+6. Set 'PYTHONSEED' to 0 in enviroment variable. You may use 'export PYTHONSEED=0' in Linux.
+
+7. Run the following script, if you are using conda, make sure you activated the correct environment:
 ```
 python train.py --flagfile={path to your cfg file above}
 ```
