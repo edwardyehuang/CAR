@@ -14,9 +14,9 @@ You can found related guides in docs
 
 2. Modify "--checkpoint_dir" and "--tensorboard_dir" to the correct location.
 
-3. Modify "--resnet50_weights_path" to the path of backbone weights you downloaded.
+3. Modify "--resnet50_weights_path" to the path of backbone weights (h5) you downloaded (e.g. xxxxx/resnet50_bn.h5)
 
-4. Modify "--pascalcontext_path" to the path of pascalcontext tfrecords dir.
+4. Modify "--pascalcontext_path" to the path of pascalcontext tfrecords dir. (e.g. xxxxx/pascalcontext_tfrecords)
 
 5. cd to "CAR" root folder. (Important for the relative path of "--flagfile").
 

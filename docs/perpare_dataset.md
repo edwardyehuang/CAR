@@ -9,6 +9,7 @@
 ```
 python ids/tools/convert_record.py \ 
 --convert_datasets=pascalcontext \
+--pascalcontext_path={Downloaded raw dataset dir} \
 --tfrecord_outputs={Your output path}
 ```
 
@@ -21,6 +22,7 @@ python ids/tools/convert_record.py \
 ```
 python ids/tools/convert_record.py \ 
 --convert_datasets=cocostuff10k \
+--cocostuff10k_path={Downloaded raw dataset dir} \
 --tfrecord_outputs={Your output path}
 --compress=True
 ```
