@@ -6,7 +6,7 @@
 2. Make sure you have downloaded backbone weights and datasets
 3. Make sure you prepared the datasets
 
-You can found related guides in docs
+You may find related guides in [docs](./).
 
 ## Train step by step (ResNet-50 + Self-attention + CAR)
 
