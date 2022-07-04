@@ -20,6 +20,7 @@ This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regulariza
 
 ## News
 <b>July-4-2022</b> : CAR: Class-aware Regularizations for Semantic Segmentation has been accepted by ECCV 2022.
+
 <b>May-7-2022</b> : There were few documentation errors in previous commits and we fixed them today. Sorry for any inconvenience caused.
 
 ## Get start
