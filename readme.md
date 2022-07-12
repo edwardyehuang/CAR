@@ -10,7 +10,7 @@
 This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regularizations for Semantic Segmentation](https://arxiv.org/pdf/2203.07160.pdf):
 
 ```
-@inproceedings{ cCAR,
+@inproceedings{cCAR,
   author = {Ye Huang and Di Kang and Liang Chen and Xuefei Zhe and Wenjing Jia and Xiangjian He and Linchao Bao},
   title = {CAR: Class-aware Regularizations for Semantic Segmentation},
   booktitle = {ECCV},
