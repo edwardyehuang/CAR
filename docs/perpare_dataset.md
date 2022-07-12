@@ -11,6 +11,7 @@ python ids/tools/convert_record.py \
 --convert_datasets=pascalcontext \
 --pascalcontext_path={Downloaded raw dataset dir} \
 --tfrecord_outputs={Your output path}
+--compress=True
 ```
 
 ## COCOStuff10k
