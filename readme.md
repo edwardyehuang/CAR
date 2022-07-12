@@ -20,7 +20,7 @@ This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regulariza
 ```
 
 ## News
-<b>July-12-2022</b> : From July 12-2022, the compressed tfrecord is used for Pascal Context. Please convert Pascal Context again by following [docs](docs/perpare_dataset.md)(Only for prior users).
+<b>July-12-2022</b> : From July 12-2022, the compressed tfrecord is used for Pascal Context. Please convert Pascal Context again by following [docs](docs/perpare_dataset.md) (Only for prior users).
 
 <b>July-4-2022</b> : CAR: Class-aware Regularizations for Semantic Segmentation has been accepted by ECCV 2022.
 
