@@ -11,7 +11,7 @@ This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regulariza
 
 ```
 @inproceedings{cCAR,
-  author = {Ye Huang and Di Kang and Liang Chen and Xuefei Zhe and Wenjing Jia and Xiangjian He and Linchao Bao},
+  author = {Ye Huang and Di Kang and Liang Chen and Xuefei Zhe and Wenjing Jia and Linchao Bao and Xiangjian He},
   title = {CAR: Class-aware Regularizations for Semantic Segmentation},
   booktitle = {ECCV},
   year = {2022},
