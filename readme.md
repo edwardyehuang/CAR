@@ -16,7 +16,6 @@ This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regulariza
   booktitle = {ECCV},
   year = {2022},
 }
-
 ```
 
 ## News
