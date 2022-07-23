@@ -24,5 +24,7 @@ You may find related guides in [docs](./).
 
 7. Run the following script, if you are using conda, make sure you activated the correct environment:
 ```
+export PYTHONHASHSEED=0
+
 python train.py --flagfile={path to your cfg file above}
 ```
