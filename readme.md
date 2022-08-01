@@ -1,4 +1,4 @@
-## CAR: Class-aware Regularizations for Semantic Segmentation
+## CAR: Class-aware Regularizations for Semantic Segmentation (ECCV 2022)
 	
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/car-class-aware-regularizations-for-semantic-1/semantic-segmentation-on-pascal-context)](https://paperswithcode.com/sota/semantic-segmentation-on-pascal-context?p=car-class-aware-regularizations-for-semantic-1)
 
@@ -10,13 +10,20 @@
 This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regularizations for Semantic Segmentation](https://arxiv.org/pdf/2203.07160.pdf):
 
 ```
-@Article{cCAR2022,
-  author  = {Ye Huang and Di Kang and Liang Chen and Xuefei Zhe and Wenjing Jia and Xiangjian He and Linchao Bao},
-  journal = {arXiv:2203.07160},
-  title   = {CAR: Class-aware Regularizations for Semantic Segmentation},
-  year    = {2022},
+@inproceedings{cCAR,
+  author = {Ye Huang and Di Kang and Liang Chen and Xuefei Zhe and Wenjing Jia and Linchao Bao and Xiangjian He},
+  title = {CAR: Class-aware Regularizations for Semantic Segmentation},
+  booktitle = {ECCV},
+  year = {2022},
 }
 ```
+
+## News
+<b>July-12-2022</b> : From July 12-2022, the compressed tfrecord is used for Pascal Context. Please convert Pascal Context again by following [docs](docs/perpare_dataset.md) (Only for prior users).
+
+<b>July-4-2022</b> : CAR: Class-aware Regularizations for Semantic Segmentation has been accepted by ECCV 2022.
+
+<b>May-7-2022</b> : There were few documentation errors in previous commits and we fixed them today. Sorry for any inconvenience caused.
 
 ## Get start
 
@@ -26,7 +33,7 @@ This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regulariza
 4. Train ([docs](docs/train.md))
 5. Tell me if you successfully reproduced our result :)
 
-## Model ZOO
+## Model Zoo
 
 [Here](docs/modelzoo.md)
 
