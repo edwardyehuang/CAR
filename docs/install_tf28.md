@@ -1,4 +1,4 @@
-# Install TensorFlow 2.8  + Pillow + Tqdm guide
+# Install TensorFlow 2.8 (or 2.9)  + Pillow + Tqdm guide
 
 For training, we recommend using the NVIDIA GPU with architecture ≥ volta (e.g. v100, any 20 or 30 series).
 
