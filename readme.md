@@ -27,7 +27,7 @@ This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regulariza
 
 ## Get start
 
-1. Install TensorFlow 2.8 + Pillow + tqdm ([docs](docs/install_tf28.md))
+1. Install TensorFlow (≥2.8) + Pillow + tqdm ([docs](docs/install_tf28.md))
 2. Download and perpare the datasets ([docs](docs/perpare_dataset.md))
 3. Download pretrained backbone weights ([docs](docs/download.md))
 4. Train ([docs](docs/train.md))
