@@ -37,7 +37,7 @@ This is a TensorFlow re-implementation of the paper [CAR: Class-aware Regulariza
 
 [Here](docs/modelzoo.md)
 
-## Reproduce our results
+## Reproduce CAR results
 
 Exactly the same results should be obtained if you are using 8 × NVIDIA V100 (SXM2) with iseg <= 0.04. We verified this on many different machines. Note that, you have to use all GPUs on the machine to avoid a deterministic bug that is still under investigation.
 
