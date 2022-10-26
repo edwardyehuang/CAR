@@ -7,7 +7,7 @@
     <img src="intro.png" width=500>
 </p>
 
-This is an offical implementation of the paper [CAR: Class-aware Regularizations for Semantic Segmentation](https://arxiv.org/pdf/2203.07160.pdf):
+This is an offical implementation of the paper [CAR: Class-aware Regularizations for Semantic Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880514.pdf):
 
 ```
 @inproceedings{cCAR,
